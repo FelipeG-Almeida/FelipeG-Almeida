@@ -12,7 +12,6 @@ Full-stack development, guided by agile methodologies.
 my inclination and passion in the field.
 
 ## 🛠 &nbsp;Tech Stack
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,11 +20,9 @@ my inclination and passion in the field.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🤓 &nbsp;Currently Learning
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🤔 &nbsp;Things i want to learn in the future
-
+## 🤔 &nbsp;Things i want to Learn in the Future
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Game Development](https://img.shields.io/badge/Game--Development-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
 
@@ -37,7 +34,9 @@ my inclination and passion in the field.
 -->
 </p>
 
-## 📞 &nbsp;Get in Touch
+## ✨ &nbsp;Side Projects
+<a align="center" href="https://planilhasblitz.com/"> <img src="https://planilhasblitz.com/img/logo.png" height="100em"> Planilhas Blitz</img> </a>
 
+## 📞 &nbsp;Get in Touch
 <a href="https://www.linkedin.com/in/fg-almeida/" target="_blank"><img src="https://img.shields.io/badge/-Felipe Almeida-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:felipegustavotheboss@gmail.com"><img src="https://img.shields.io/badge/-felipegustavotheboss@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>

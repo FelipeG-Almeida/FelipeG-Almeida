@@ -1,6 +1,6 @@
 <img align="right" height="500em" src="https://raw.githubusercontent.com/gist/FelipeG-Almeida/002e248ebaff1e1d208713ce39d588f0/raw/fb605f563c6246b12e817ef554cc9582e31a0084/github_profile-card.svg" />
 
-<h1 align="left"> < Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Felipe Almeida > </h1>
+<h1 align="left"> < Hello World <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px"> I'm Felipe > </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelipeG-Almeida&color=yellow" alt="Profile views" /> </p>
 
 - 👨‍💻 I'm a Front-End developer and technology enthusiast.

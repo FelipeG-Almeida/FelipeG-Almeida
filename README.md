@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Felipe%20Almeida&fontSize=90)
 
-👨‍💻 I'm a Full-Stack developer and technology enthusiast.<br><br>🎓 I have a bachelor's degree in computer science, and I'm currently attending labenu's bootcamp, with over 1000 hours of hands-on experience in Full-stack development, guided by agile methodologies. I'm also enrolled in the Oracle Next Education program, a project focused on training new talents for the development field.<br><br>⚡ Fun(?) fact: My first contact with software development dates back to my high school, but only after 10 years, I noticed my inclination and passion in the field.
+👨‍💻 I'm a Full-Stack developer and technology enthusiast.<br><br>🎓 I have a degree in computer science education, and I have also completed the Labenu bootcamp, which provided me with 1000 hours of hands-on experience in full-stack development, guided by agile methodology. Additionally, I have completed the Oracle Next Education bootcamp, a program focused on Java backend with Spring, and the Santander 2023 full-stack bootcamp, where I worked with Angular and Java technologies.<br><br>⚡ Fun(?) fact: My first contact with software development dates back to my high school, but only after 10 years, I noticed my inclination and passion in the field.
 
 <h2>Socials</h2>
 <a href="https://facebook.com/felipe.g.oo9"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
